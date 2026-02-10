@@ -1,0 +1,16 @@
+Write a Python read two number from user 
+and print sum of two number?
+
+Python Software
+------------------
+variable name, function name, class name, object name
+
+Identifier: name in python Program
+Identifer Rules:
+1.Identifier should contain only a-z/A-Z, 0-9,_
+2.Identifier should not start with digits(0-9)
+3.Identifier should not contains any specail char/symbols
+4.Should not use keyword as identifier
+5.case senstive.
+
+SyntaxError
