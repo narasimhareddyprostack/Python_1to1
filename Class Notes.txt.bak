@@ -12,3 +12,63 @@ Identifer Rules:
 3.Identifier should not contains any specail char/symbols
 4.Should not use keyword as identifier
 5.case senstive.
+
+SyntaxError
+======================================
+Data Types:
+
+<class,int>
+<class,float>
+<class,str>
+<class,bool>
+<class,complex>
+
+<class,list>
+<class,tuple>
+<class,set>
+<class,dict>
+
+<class,bytes>
+<class,bytearray>
+<class,frozenset>
+<class,range>
+<class,nontype>
+
+=================================
+Python Inbuilt function
+----------------------------
+print()  - print value on console
+input()  - read data from user - default type str
+type()   - return the data type
+id()     - return address of object  
+min()    - return min value from  given sequence
+max()  
+len()
+
+int()
+float()
+str()
+bool()
+complex()
+list()
+tuple()
+set()
+dict()
+bytes()
+bytearray()
+frozenset()
+nontype()
+range()
+
+bin()
+oct()
+hex()
+====================================
+Java Data Type:
+Primitive Data Type    Ref Data Type
+single value           Holding multple value
+
+int eid=101;	       ArrayList al= [101,102,103];
+
+But in Python : every thing object
+Mutable vs Immutable
