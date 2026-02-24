@@ -81,3 +81,51 @@ Mutable vs Immutable
 
 a=100
 a=200
+=========================================
+class-5
+
+Task:
+Create Variables and print their data type based on below url.
+https://www.flipkart.com/google-pixel-10a-berry-256-gb/p/itm6cef0b0df57f9?pid=MOBHK7FHYUEFHSZG&marketplace=FLIPKART&lid=LSTMOBHK7FHYUEFHSZGTZMZAA&pageUID=1771896951224
+
+Data Type:
+
+int
+float
+str
+bool
+complex
+
+list
+tuple
+set
+dict
+
+bytes
+bytearray
+frozenset
+range
+nonType
+=====================================================
+int  - data type         
+list - list data type 
+CRUD Operations
+=====================================================
+int Data type:
+---------------------
+decimal format/10 (0-9)      : a=124 , price=355
+binary format /2             : 0B1111 
+oct format   /8              : 0o17
+hexadeciam format/16         : 0x 
+
+Typecasting funciton:  bin(),oct(),hex()
+=============================================
+list data structure:
+if you want to represent
+->group of elements/values/objects as one entity
+->[]
+-allowed duplicates
+-allowed heterogeneous elements
+-elements are storing based on indexing.
+
+Create                 Read           Update   & Delete

@@ -70,5 +70,48 @@ single value           Holding multple value
 
 int eid=101;	       ArrayList al= [101,102,103];
 
-But in Python : every thing object
+But in Python : every thing object.
+Object are created @ heap memory
+
 Mutable vs Immutable
+14 Data Type:  
+4  - Mutable Object: list,set,dict,bytes
+10 - Immutable Object:int,float,str,complex,tuple,bool,ba,fz,range,nontype
+
+
+a=100
+a=200
+=========================================
+class-5
+
+Task:
+Create Variables and print their data type based on below url.
+https://www.flipkart.com/google-pixel-10a-berry-256-gb/p/itm6cef0b0df57f9?pid=MOBHK7FHYUEFHSZG&marketplace=FLIPKART&lid=LSTMOBHK7FHYUEFHSZGTZMZAA&pageUID=1771896951224
+
+Data Type:
+
+int
+float
+str
+bool
+complex
+
+list
+tuple
+set
+dict
+
+bytes
+bytearray
+frozenset
+range
+nonType
+=====================================================
+int  - data type         
+list - list data type 
+CRUD Operations
+=====================================================
+int Data type:
+---------------------
+decimal format
+binary 
