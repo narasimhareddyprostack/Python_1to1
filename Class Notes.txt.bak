@@ -171,6 +171,172 @@ Dict Structure
 --> duplicate values are allowed.
 --> Index is not possible.
 
-create
-------
+=========================================
+Python Operators?
+price=399
+qty=2
 
+print(price*qty)
+
+1) Arithmatic Operators
+   + -  *  / //  %   **
+Logical Operators
+   and or 
+Relation Operatores
+   < <=  > >=
+Equality Operators
+  ==  !=
+Assignment Operators
+  =
+Specail Operator
+a)Identity Operators  :  is     is not 
+b)Membership Operators:  in     not in
+Bitwise Operators
+
+Python Expression:
+
+Logical Operators  : and or 
+Relation Operators : < <=  > >=
+Equality Op        : == !=
+
+python Expression contains above operators
+result is always boolean value ie True/False
+
+Membership Operators?  in  and not in
+Verify Member/element/value/object preset in sequence or not ?
+Python Sequence?
+====================
+List,Tuple,set,str
+bytes
+bytearray
+frozenset
+range()
+
+eids=[101,102,103,104]
+print(102 in eids)  #True
+============================================================
+Python Sequence
+----------------
+Sequence might be 
+list,
+tuple,
+set,
+str,
+bytes
+bytearray
+frozenset
+range()
+
+verify element/value present in sequence or not?
+in , not in - memebership operators
+
+enames=["Rahul","Sonia","Priya"]
+"Sonia" in enames
+
+range() - Data Type
+To generate sequence of integers.
+1,2,3,4,5,6....100
+2,4,6,8,10,12,14,16
+5,10,15,20....50
+10,20,30,..100
+50,49,48,47.....5
+
+range([start],end,[step])
+range(1,10,1)  --> 1,2,3,4,5,6,7,8,9
+range(4,20,4)  --> 4,8,12,16
+range(10)-> range(0,10,1) -->0,1,2,3,4,5,6,7,8,9
+range(5,11)->range(5,11,1)-->5,6,7,8,9,10
+range(2,20,2)-->2,4,6,8,10,12,14,16,18
+
+conditional flow st and Iterative flow statement
+================================================
+case 1:
+executing group of statememt based on condition.
+
+case 2:
+exectuing group of st 5times/10times/n times.
+
+
+Python Conditional St  and Iterative St:
+
+
+
+List-Methods:
+----------------
+if you want to represent group of 
+--elements/objects/values as one entity
+--where allowed duplicates
+--allowed heterogenous elements
+--list elements are storing based on indexing(both -ve & +ve)
+--Insertion Order Mainiained.
+--List is Mutable Object.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+python function:
+
+group of statement for specific functionality
+executing some business logic and return some value.
+
+code reusability.
+
+
+
+
+
+================================
+Python Modules?
+Module - python file acting as module.
+
+one.py
+two.py
+user.py
+order.py
+
+Python file(module) contains - variable,function,class
+
+Ecommerce Appl
+user      - create,read,update,delete
+products
+orders
+payments
+
+Inbuilt Module and user defined modules.
+import 
+
+
+
+Inbuilt Modules
+===================
+math
+random
+json
+csv
+requests
+re
+os
+pathlib
+
+How user modules?
+What module contains: members-variable,function,class
+
+import module1,module2,...
+
+import module1 as m1, module2 as m2,...
+
+from module import member1,member2,
+
+
+
+
+Prepare small tech note on functions.
+1.functions
+2.function - agrument type
+3.lambda function
+
+function
+inner function
+recursive fun
+lambda
+decorators
+
+How to invoke inner function from outside?

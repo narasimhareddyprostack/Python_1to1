@@ -9,4 +9,4 @@ print(enames[1])
 print(enames[2])
 print(enames[3])
 #update
-enames[0]="Rahul Gandhi" #TypeError: 'tuple' object does not support item assignment
+enames[0]="Rahul Gandhi"
