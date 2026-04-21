@@ -340,3 +340,54 @@ lambda
 decorators
 
 How to invoke inner function from outside?
+=====================================================
+
+map()    - data tranformation
+filter() - data selection
+
+syntax
+---------------
+mapobject=map(function,iterable/seq)
+filterobject=filter(function,iterable/seq)
+
+
+========================================
+user module Rest API
+
+Registration                      Create
+login                             
+logout                            
+updateprofile                      
+deleteprofile             
+getuser
+getusers
+
+
+CRUD                         HTTP Methods:
+__________________________________________
+Create New User              POST
+Read User                    GET 
+Update USer                  PUT  
+Delete User                  DELETE
+
+HTTP Status Codes
+______________________
+1XX         - informational issue
+2XX         - Success 
+3XX         - Redirectional Error 
+4XX         - File Not Found/Client Error
+5XX         - Server Error
+
+Rest API 
+----------
+Usage: fetch all users
+Rest API URL:https://jsonplaceholder.typicode.com/users
+Method Type: GET
+Required Fields: None
+Access Type:Public
+
+How consume Rest API in Python? 
+using requests module
+---------------------------------------------------------
+how to test api?
+using POSTMAN tool

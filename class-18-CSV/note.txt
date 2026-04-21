@@ -1,0 +1,5 @@
+csv.reader(fp)
+csv_writer=csv.writer(fp)
+
+csv_writer.writerow(['userid','username','gender']) #csv header
+csv_writer.writerows(data) #writing csv data
