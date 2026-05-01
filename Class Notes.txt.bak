@@ -391,3 +391,15 @@ using requests module
 ---------------------------------------------------------
 how to test api?
 using POSTMAN tool
+
+
+
+
+
+Rest API 
+----------
+Usage: fetch all products
+Rest API URL:https://dummyjson.com/products
+Method Type: GET
+Required Fields: None
+Access Type:Public

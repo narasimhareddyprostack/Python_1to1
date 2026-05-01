@@ -5,8 +5,6 @@ Method Type: GET
 Required Fields: None
 Access Type:Public
 '''
-
-
 import requests
 
 response=requests.get('https://jsonplaceholder.typicode.com/users')
