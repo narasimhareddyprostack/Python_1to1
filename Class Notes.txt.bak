@@ -404,3 +404,23 @@ Method Type: GET
 Required Fields: None
 Access Type:Public
 
+========================================
+SQL             vs                      NoSQL
+
+
+Perform crud Operation MongoDB
+--------------------------------------------
+pip install pymongo 
+
+a)create emp data into mongodb collection ie employees
+b)read emp data from collection
+c)update emp data from collection
+d)delete emp data from collection
+
+
+emp_col.insert_one()    - document
+emp_col.insert_many()   - many document
+emp_col.find()          - return all documents
+emp_col.find_one()      - return only one document
+emp_col.update_one()
+emp_col.update_many()

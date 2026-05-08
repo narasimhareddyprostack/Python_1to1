@@ -424,3 +424,8 @@ emp_col.find()          - return all documents
 emp_col.find_one()      - return only one document
 emp_col.update_one()
 emp_col.update_many()
+
+
+install mongodb         - community edition
+install mongodb compass - mongo db GUI
+
