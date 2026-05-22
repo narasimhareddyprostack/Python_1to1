@@ -424,3 +424,17 @@ emp_col.find()          - return all documents
 emp_col.find_one()      - return only one document
 emp_col.update_one()
 emp_col.update_many()
+
+
+install mongodb         - community edition
+install mongodb compass - mongo db GUI
++++++++++++++++++++++++++++++++++++++++++++++++
+Write document regarding Python OOP?
+explain with example
+a)what is class
+b)what is object? and how to create object?
+c)What class contains
+d)type of variables
+e)type of methods
+f)constructor vs methods
+g)Instance method vs class method
